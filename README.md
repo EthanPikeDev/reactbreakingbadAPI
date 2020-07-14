@@ -13,6 +13,7 @@ search bar to search for a specific character.
 # How to use the app:
 
 -Simply search for the character you want to find.
+
 -Hover over/click on cards to view information on the characters.
 
 # How to set up the project on your local machine:
